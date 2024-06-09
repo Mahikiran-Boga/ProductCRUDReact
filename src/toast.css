@@ -1,0 +1,6 @@
+/* App.css */
+.toast-container {
+    max-height: 50px; /* Set the maximum height to limit the toast height */
+    overflow: auto; /* Enable scrolling if the content exceeds the maximum height */
+  }
+  
